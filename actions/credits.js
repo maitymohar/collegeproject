@@ -13,7 +13,7 @@ const PLAN_CREDITS = {
 };
 
 // Each appointment costs 2 credits
-const APPOINTMENT_CREDIT_COST =0;
+const APPOINTMENT_CREDIT_COST = 0;
 
 /**
  * Checks user's subscription and allocates monthly credits if needed
